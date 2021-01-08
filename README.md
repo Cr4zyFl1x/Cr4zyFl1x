@@ -1,6 +1,6 @@
 ### Hey, keep chillin' ! 👋
 
-- 🔭 I’m currently working on [SarpexConsole](https://github.com/Cr4zyFl1x/SarpexManagementCenter) (Currently private repo)
+- 🔭 I’m currently working on [SarpexConsole](https://github.com/Cr4zyFl1x/SarpexConsole) (Currently private repo)
 - 🌱 I’m currently learning Java & GO 
 - 📫 How to reach me: [florian@kleine-vorholt.net](mailto:florian@kleine-vorholt.net)
 - 💬 Ask me about PHP, JS, Vue & Network engineering if you need help :)
