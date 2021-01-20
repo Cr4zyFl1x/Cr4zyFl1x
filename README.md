@@ -8,7 +8,7 @@
 - 🌐 My servers are powered by [Sarpex IT Services](https://sarpex.eu).
 - 🟢 You can find my System Status Page [here](https://status.sarpex.eu).
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=Cr4zyFl1x&show_icons=true&theme=tokyonight)
+![Statistics](https://github-readme-stats.vercel.app/api?username=Cr4zyFl1x&show_icons=true&theme=nightowl)
 
 
 <!--
