@@ -9,6 +9,7 @@
 - 🟢 You can find my System Status Page [here](https://status.sarpex.eu).
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Cr4zyFl1x&show_icons=true&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 <!--
