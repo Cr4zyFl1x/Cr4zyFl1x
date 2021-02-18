@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [SarpexConsole](https://github.com/Cr4zyFl1x/SarpexConsole) (Currently private repo)
 - 🌱 I’m currently learning Java, (GO) & Python 
 - 📫 How to reach me: [florian@kleine-vorholt.net](mailto:florian@kleine-vorholt.net)
-- 💬 Ask me about PHP, JS, Vue & Network engineering if you need help :)
+- 💬 Ask me about PHP, JS, SQL & Network engineering if you need help :)
 - ⚡ Fun fact: I'm managing a serverfarm in the iNTERWERK (FFM) datacenter in Frankfurt am Main, Germany!
 - 🌐 My servers are powered by [Sarpex IT Services](https://sarpex.eu).
 - 🟢 You can find my System Status Page [here](https://status.sarpex.eu).
