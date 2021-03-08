@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-- 🔭 I’m currently working on [SarpexConsole](https://github.com/Cr4zyFl1x/SarpexConsole) (Currently private repo)
+- 🔭 I’m currently working on [Wer wird Millionär](https://github.com/HEBK/wer-wird-millionaer)
 - 🌱 I’m currently learning Java, (GO) & Python 
 - 📫 How to reach me: [florian@kleine-vorholt.net](mailto:florian@kleine-vorholt.net)
 - 💬 Ask me about PHP, JS, SQL & Network engineering if you need help :)
