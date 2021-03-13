@@ -53,6 +53,11 @@
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>
 
+## Organizations
+<a href="https://github.com/SarpexIT" target="_blank"> <img src="https://avatars.githubusercontent.com/u/67113725?s=200&v=4" alt="Sarpex IT Services" width="40" height="40" /> </a>
+<a href="https://github.com/HEBK" target="_blank"> <img src="https://avatars.githubusercontent.com/u/77664115?s=200&v=4" alt="HEBK" width="40" height="40" /> </a>
+<a href="https://github.com/KleineVorholtNET" target="_blank"> <img src="https://avatars.githubusercontent.com/u/80589129?s=200&v=4" alt="Kleine-VorholtNET" width="40" height="40" /> </a>
+
 ## Statistics
 <a href="https://github.com/Cr4zyFl1x">
   <img src="https://github-readme-stats.vercel.app/api?username=Cr4zyFl1x&show_icons=true&theme=nightowl" />
