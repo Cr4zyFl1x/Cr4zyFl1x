@@ -1,12 +1,9 @@
 # Hey there! 👋
 
-- 🔭 I’m currently working on [Wer wird Millionär](https://github.com/HEBK/wer-wird-millionaer) & [KlevoCMS](https://github.com/KleineVorholtNET/KlevoCMS)
+- 🔭 I’m currently working on [Wer wird Millionär](https://github.com/HEBK/wer-wird-millionaer)
 - 🌱 I’m currently learning Java, (GO) & Python 
 - 📫 How to reach me: [florian@kleine-vorholt.net](mailto:florian@kleine-vorholt.net)
 - 💬 Ask me about PHP, JS, SQL & Network engineering if you need help :)
-- ⚡ Fun fact: I'm managing a serverfarm in the iNTERWERK (FFM) datacenter in Frankfurt am Main, Germany!
-- 🌐 My servers are powered by [Sarpex IT Services](https://sarpex.eu).
-- 🟢 You can find my System Status Page [here](https://status.sarpex.eu).
 - <img src="https://komarev.com/ghpvc/?username=cr4zyfl1x&label=Profile%20views&color=0e75b6&style=flat-square" alt="cr4zyfl1x" />
 
 ## Languages
@@ -54,9 +51,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>
 
 ## Organizations
-<a href="https://github.com/SarpexIT" target="_blank"> <img src="https://avatars.githubusercontent.com/u/67113725?s=200&v=4" alt="Sarpex IT Services" width="40" height="40" /> </a>
 <a href="https://github.com/HEBK" target="_blank"> <img src="https://avatars.githubusercontent.com/u/77664115?s=200&v=4" alt="HEBK" width="40" height="40" /> </a>
-<a href="https://github.com/KleineVorholtNET" target="_blank"> <img src="https://avatars.githubusercontent.com/u/80589129?s=200&v=4" alt="Kleine-VorholtNET" width="40" height="40" /> </a>
 
 ## Statistics
 <a href="https://github.com/Cr4zyFl1x">
