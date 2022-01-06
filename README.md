@@ -61,6 +61,8 @@
 <a href="https://github.com/Cr4zyFl1x">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr4zyFl1x&layout=compact&theme=nightowl" />
 </a>
+  
+![](https://hit.yhype.me/github/profile?user_id=49106763)
 
 
 <!--
