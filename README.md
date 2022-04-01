@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning [Go](https://github.com/golang)
 - 📫 How to reach me: [florian@kleine-vorholt.net](mailto:florian@kleine-vorholt.net)
 - 💬 Ask me about PHP, JS, SQL & Network engineering if you need help :)
+- 🍵 My Gitea: [https://git.kleine-vorholt.eu/](https://git.kleine-vorholt.eu/)
 - <img src="https://komarev.com/ghpvc/?username=cr4zyfl1x&label=Profile%20views&color=0e75b6&style=flat-square" alt="cr4zyfl1x" />
 
 ## Languages
