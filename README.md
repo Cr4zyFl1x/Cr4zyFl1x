@@ -1,5 +1,7 @@
 # Hey there! 👋
 
+<b style="color: red">I'm no longer active here! Instead I'm using my own Bitbucket for my code</b>
+
 - 🔭 I’m currently working on [SarpexConsole v2](https://github.com/SarpexIT/SarpexConsole) & [Kleine-Vorholt.NET Connect](https://git.rz.kleine-vorholt.eu/projects/KVNET/repos/connect)
 - 🌱 I’m currently learning [Go](https://github.com/golang)
 - 📫 How to reach me: [florian@kleine-vorholt.net](mailto:florian@kleine-vorholt.net)
