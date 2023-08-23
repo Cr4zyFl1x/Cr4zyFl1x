@@ -37,7 +37,7 @@
 <a href="https://www.microsoft.com/windows/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" /> </a>
 
 ## My IDE's
-<a href="https://www.jetbrains.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/JetBrains_Logo_2016.svg/1200px-JetBrains_Logo_2016.svg.png" alt="jetbrains" width="40" height="40" /> </a>
+<a href="https://www.jetbrains.com/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="jetbrains" width="40" height="40" /> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40" /> </a>
 <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" alt="phpstorm" width="40" height="40" /> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40" /> </a>
@@ -45,7 +45,7 @@
 ## Other Tools & Software
 <a href="https://httpd.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40" /> </a>
 <a href="https://github.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40" /> </a>
-<a href="https://git.kleine-vorholt.eu" target="_blank"> <img src="https://gitea.io/images/gitea.png" alt="gitea" width="40" height="40" /> </a>
+<a href="https://about.gitea.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gitea_Logo.svg/512px-Gitea_Logo.svg.png" alt="gitea" width="40" height="40" /> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
@@ -53,7 +53,8 @@
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>
 <a href="https://getcomposer.org/" target="_blank"> <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="photoshop" height="40" /> </a>
-  
+<a href="https://www.atlassian.com/software/bitbucket" target="_blank"> <img src="https://www.stagil.com/hubfs/bitbucket.svg" alt="bitbucket" height="40" /> </a>
+
 
 ## Organizations
 <a href="https://github.com/HEBK" target="_blank"> <img src="https://avatars.githubusercontent.com/u/77664115?s=200&v=4" alt="HEBK" width="40" height="40" /> </a>
