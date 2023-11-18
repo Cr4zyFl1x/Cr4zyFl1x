@@ -59,7 +59,6 @@
 
 ## Organizations
 <a href="https://github.com/HEBK" target="_blank"> <img src="https://avatars.githubusercontent.com/u/77664115?s=200&v=4" alt="HEBK" width="40" height="40" /> </a>
-<a href="https://github.com/EpicGames" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6615685?s=64&v=4" alt="EpicGames" width="40" height="40" /> </a>
   
 ## Statistics
 <a href="https://github.com/Cr4zyFl1x">
