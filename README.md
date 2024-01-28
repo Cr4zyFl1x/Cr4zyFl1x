@@ -1,12 +1,13 @@
 # Hey there! 👋
 
-<b style="color: red">I'm no longer active here! Instead I'm using my own Bitbucket for my code</b>
+<b style="color: red">I'm no longer active here! Instead I'm using my own Bitbucket & CI/CD for my code</b>
 
 - 🔭 I’m currently working on [SarpexConsole v2](https://github.com/SarpexIT/SarpexConsole) & [Kleine-Vorholt.NET Connect](https://git.rz.kleine-vorholt.eu/projects/KVNET/repos/connect)
 - 🌱 I’m currently learning [Go](https://github.com/golang)
 - 📫 How to reach me: [florian@kleine-vorholt.net](mailto:florian@kleine-vorholt.net)
 - 💬 Ask me about PHP, JS, SQL & Network engineering if you need help :)
-- 🍵 My Bitbucket: [https://git.rz.kleine-vorholt.eu/](https://git.rz.kleine-vorholt.eu/)
+- 🪣 My Bitbucket: [https://git.rz.kleine-vorholt.eu/](https://git.rz.kleine-vorholt.eu/)
+- ⚙️ My CI/CD: [https://ci.rz.kleine-vorholt.eu/](https://ci.rz.kleine-vorholt.eu/)
 - <img src="https://komarev.com/ghpvc/?username=cr4zyfl1x&label=Profile%20views&color=0e75b6&style=flat-square" alt="cr4zyfl1x" />
 
 ## Languages
