@@ -68,8 +68,3 @@
 <a href="https://github.com/Cr4zyFl1x">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr4zyFl1x&layout=compact&theme=nightowl" />
 </a>
-  
-## Miscellaneous
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oa005ziehquolo017fw5fg4ii&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=oa005ziehquolo017fw5fg4ii&redirect=true)
-  
-![](https://hit.yhype.me/github/profile?user_id=49106763)
